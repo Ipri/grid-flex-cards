@@ -1,0 +1,16 @@
+.card-list__container {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fit, 230px);
+  grid-gap: 20px;
+}
+
+
+.card-list__container > .card-one {
+  cursor: pointer;
+}
+
+.card-list__container > .card-one:hover {
+  transform: scale(0.9);
+  transition: transform 0.5s ease-in-out;
+}

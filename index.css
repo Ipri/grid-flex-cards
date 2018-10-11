@@ -1,0 +1,18 @@
+@import "https://use.fontawesome.com/releases/v5.3.1/css/all.css";
+@import "./componets/main-app/main-app.style.css";
+@import "./componets/card-list/card-list.style.css";
+@import "./componets/card-one/card-one.style.css";
+@import "./componets/cards-slider/card-slider.style.css";
+
+
+:root {
+  --card-action-call-color: #10B41C; 
+  --card-action-sms-color: #FC8232; 
+  --card-action-telegram-color: #0096DA; 
+  --card-cover-color: #3254FE;
+  --card-dark-gray-color: #999999;
+  --card-gray-color: #aaaaaa;
+  --card-light-gray-color: #dddddd; 
+  --card-yellow: #F1BF04;
+  --card-velvet: #6F48BD;
+}

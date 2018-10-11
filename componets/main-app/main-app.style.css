@@ -1,0 +1,9 @@
+.main-app__container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.main-app__card-list-title,
+.main-app__card-slider-title {
+  text-align: center;
+}

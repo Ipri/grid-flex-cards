@@ -1,0 +1,19 @@
+{
+  "name": "mirafox-cards",
+  "version": "0.0.1",
+  "description": "test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "task",
+    "cards"
+  ],
+  "author": "i.priladnykh",
+  "license": "ISC",
+  "jshintConfig": {
+    "esversion": 6
+  }
+}
